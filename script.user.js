@@ -4,6 +4,7 @@
 // @description Script qui permet d'ajouter des boutons de messages prédéfinis dans les forums
 // @include     https://realitygaming.fr/threads/*
 // @include     https://realitygaming.fr/conversations/*
+// @author      Loucasse
 // @version     1.0
 // @grant       none
 // ==/UserScript==
