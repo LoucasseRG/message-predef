@@ -10,5 +10,5 @@
 // ==/UserScript==
 
 $(document).ready(function(){
-    $.getScript('https://cdn.rawgit.com/LoucasseRG/message-predef/master/script.js');
+    $.getScript('https://rawgit.com/LoucasseRG/message-predef/master/script.js');
 });
